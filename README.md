@@ -5,6 +5,12 @@
 
 - 🌱 I’m currently learning **The CNCF cloud native roadmap**
 
+- 💬 Ask me about **K8s, golang**
+
+- 🎾 Passionate Tennis player 
+
+- 📫 How to reach me **LinkedIn**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-kalotai-2b1a31274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-kalotai-2b1a31274" height="30" width="40" /></a>
