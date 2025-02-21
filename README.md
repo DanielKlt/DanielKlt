@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A computer science student from germany</h3>
 
+- 🔭 I’m currently working as a DevOps/SRE Engineer at SAP **Central Business Configuration**
+
 - 🌱 I’m currently learning **The CNCF cloud native roadmap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniel kalotai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel kalotai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel-kalotai-2b1a31274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-kalotai-2b1a31274" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
