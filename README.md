@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a DevOps/SRE Engineer at SAP **Central Business Configuration**
 
-- 🌱 I’m currently learning **The CNCF cloud native roadmap**
+- 🌱 I’m currently learning **the CNCF cloud native roadmap**
 
 - 💬 Ask me about **K8s, golang**
 
