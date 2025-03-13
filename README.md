@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A computer science student from germany</h3>
+<h3 align="center">A Software developer from germany</h3>
 
 - 🔭 I’m currently working as a DevOps/SRE Engineer at SAP **Central Business Configuration**
 
